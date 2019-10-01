@@ -1,1 +1,3 @@
 Inicio de la Historia.
+
+Parte dos de la Historia. Hecha desde la rama texto2
