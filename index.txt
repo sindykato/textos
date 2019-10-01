@@ -1,7 +1,6 @@
 Inicio de la Historia.
 
-<<<<<<< HEAD
 Se agrega la primera parte 
-=======
 Parte dos de la Historia. Hecha desde la rama texto2
->>>>>>> texto2
+
+parte tres de la historia
